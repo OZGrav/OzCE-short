@@ -157,6 +157,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Keep config file in env
+!env/environment.yml
+
 # Spyder project settings
 .spyderproject
 .spyproject
