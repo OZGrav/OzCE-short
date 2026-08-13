@@ -1,0 +1,10 @@
+name: OzCE-short
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.11
+  - numpy>=1.24
+  - matplotlib>=3.7
+  - pandas>=2.0
+  - gwinc
