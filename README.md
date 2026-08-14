@@ -23,4 +23,6 @@ You can test your setup by running the following command inside the newly create
 gwinc ifo/variant/OzCE-20.yaml -t "GWINC Noise Budget: OzCE-20"
 ```
 
-![This plot should pop up on the screen.](./images/OzCE-20-example.png)
+The plot below should pop up on the screen.
+
+![OzCE-20 example plot](./images/OzCE-20-example.png)
