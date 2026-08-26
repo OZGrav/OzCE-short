@@ -1,0 +1,29 @@
+Materials:
+  Coating:
+    Alphahighn: 3.6e-06
+    Alphalown: 5.1e-07
+    Betahighn: 1.4e-05
+    Betalown: 8.0e-06
+    CVhighn: 2100000.0
+    CVlown: 1641200.0
+    Indexhighn: 2.06539
+    Indexlown: 1.45
+    Phihighn: 7.0e-05
+    Phihighn_slope: 0.1
+    Philown: 2.3e-05
+    Philown_slope: 0.0
+    Sigmahighn: 0.28
+    Sigmalown: 0.17
+    ThermalDiffusivityhighn: 33.0
+    ThermalDiffusivitylown: 1.38
+    Yhighn: 124000000000.0
+    Ylown: 72000000000.0
+ 
+Optics:
+  ETM:
+    CoatingThicknessCap: 0.5
+    CoatingThicknessLown: 0.27
+  ITM:
+    CoatingAbsorption: 5.0e-07
+    CoatingThicknessCap: 0.5
+    CoatingThicknessLown: 0.308
