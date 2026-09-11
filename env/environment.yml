@@ -8,3 +8,5 @@ dependencies:
   - matplotlib>=3.7
   - pandas>=2.0
   - gwinc
+  - inspiral-range
+  - finesse
