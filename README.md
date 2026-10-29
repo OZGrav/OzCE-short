@@ -17,6 +17,7 @@ Noise and sensitivity modeling for an Australian, short‑baseline interferomete
 - Clone this repository
 - Create a project environment using `conda env create -f OzCE-short/env/environment.yml`. This automatically generates a conda environment named *OzCE-short* and installs the required Python packages in that environment.
 - Activate/select this Python environment and you are all set!
+- In future, to keep the packages up-to-date inside this environment, run `conda env update --file env/environment.yml --prune`
 
 You can test your setup by running the following command inside the newly created Python environment.
 
